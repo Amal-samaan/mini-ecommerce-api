@@ -1,0 +1,9 @@
+PATCH http://localhost/mini-ecommerce-api/api/products/2
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJtaW5pLWVjb21tZXJjZS1hcGkiLCJpYXQiOjE3OTM0ODcyODYsImV4cCI6MTc5NDA5MjA4NiwidXNlcl9pZCI6MSwicm9sZSI6ImFkbWluIn0.WXmM02Xcb1D0KIug9Xh9ogSQca-2ORcieEh1RToFeKg
+
+{
+    "name": "iphone 14",
+    "price": 3000,
+    "stock": 10
+}
