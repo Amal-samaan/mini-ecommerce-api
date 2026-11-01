@@ -1,9 +1,9 @@
 Mini E-Commerce API 
 -About the Project :
-This project is a simple E-Commerce API developed using PHP and MySQL. It is part of my backend training
+This project is a simple E-Commerce API developed using PHP and MySQL.
 The project allows users to register and log in, view products, and create orders. It also has an admin role that can manage products and update order statuses
 
--Technologies Used
+-Technologies Used:
 PHP
 MySQL
 XAMPP
